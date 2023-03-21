@@ -1,0 +1,12 @@
+What is the difference between var and let?
+Answer: You are able to reassign and redeclare with var, but you would not be able to redeclare using the let keyword. 
+
+What is the difference between var and const?
+Answer: You can reassign and redeclare with var, but you can not redeclare or reassign using the const keyword.
+
+
+What is the difference between let and const?
+Answer: You can reassign with let, but you can not redeclare or reassign using the const keyword.
+
+What is hoisting?
+Answer:the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code
